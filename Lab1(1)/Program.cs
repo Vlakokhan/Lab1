@@ -14,7 +14,7 @@ namespace lab1
             volume(a);
             square(a);
             Console.WriteLine("Об'єм куба:" + V);
-            Console.WriteLine("Площа поверхнi:" + S);
+            Console.WriteLine("Площа поверхнi:" + S);//
             return 0;
         }
         static public double volume(int a)
